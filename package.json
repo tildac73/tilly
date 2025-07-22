@@ -1,0 +1,19 @@
+{
+  "name": "tilly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tildac73/tilly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tildac73/tilly/issues"
+  },
+  "homepage": "https://github.com/tildac73/tilly#readme",
+  "description": ""
+}
